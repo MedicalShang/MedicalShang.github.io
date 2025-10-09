@@ -23,14 +23,14 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "白底1寸.png"
+  name             : "Harry Shang"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "A Ph.D. student of cadiology in PKU3rdH"
+  location         : "HK"
+  employer         : "Peking University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "medicalshang1213@gmail.com" 
 
   # Academic websites
   academia         : # URL
