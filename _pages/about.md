@@ -11,7 +11,7 @@ I am a first-year Ph.D. student majoring in cardiology in [Peking University Thi
 
 You can find my CV here:[Harry Shang's Curriculum Vitae](../assets/中大临床尚尔瀚个人简历.pdf)
 
-[Email](medicalshang1213@gmail.com) / [Github](https://github.com/MedicalShang) / [Wecht](../images/wechat.jpg)
+[Email](medicalshang1213@gmail.com) / [Github](https://github.com/MedicalShang) / [Wechat](../images/wechat.jpg)
 
 A data-driven personal website
 ======
