@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/白底1寸 .png"
+  avatar           : "/images/白底1寸.png"
   name             : "Harry Shang"
   pronouns         : # example: "she/her"  
   bio              : "A Ph.D. student of cadiology in PKU3rdH"
