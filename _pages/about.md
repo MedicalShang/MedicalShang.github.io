@@ -7,9 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+I am a first-year Ph.D. student majoring in cardiology in [Peking University Third Hospital](https://www.puh3.net.cn). I am fortunate to be advised by [Prof. Ming Xu]
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+You can find my CV here:[Harry Shang's Curriculum Vitae](../assets/Curriculum Vitae.pdf)
+
+[Email](medicalshang1213@gmail.com) / [Github](https://github.com/MedicalShang) / [Wecht](../images/wechat.jpg)
 
 A data-driven personal website
 ======
