@@ -9,7 +9,7 @@ redirect_from:
 
 I am a first-year Ph.D. student majoring in cardiology in [Peking University Third Hospital](https://www.puh3.net.cn). I am fortunate to be advised by [Prof. Ming Xu]
 
-You can find my CV here:[Harry Shang's Curriculum Vitae](../assets/Curriculum Vitae.pdf)
+You can find my CV here:[Harry Shang's Curriculum Vitae](../assets/中大临床尚尔瀚个人简历.pdf)
 
 [Email](medicalshang1213@gmail.com) / [Github](https://github.com/MedicalShang) / [Wecht](../images/wechat.jpg)
 
