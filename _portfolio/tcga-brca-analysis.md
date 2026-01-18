@@ -22,20 +22,11 @@ Breast cancer is a highly heterogeneous disease. This project explores transcrip
 ## Key Results
 
 <p align="center">
-  <img src="/images/portfolio/tcga-brca-analysis/age_distribution.png" width="420">
-  <img src="/images/portfolio/tcga-brca-analysis/confusion_matrix.png" width="420">
-</p>
-
-<p align="center">
-  <em>
-    Figure 1. Age distribution of TCGA-BRCA patients and confusion matrix of the classification model.
-  </em>
+  <img src="/images/portfolio/tcga-brca-analysis/age_distribution.png" width="480">
 </p>
 
 <p align="center">
   <img src="/images/portfolio/tcga-brca-analysis/pca_projection.png" width="520">
-  <br>
-  <em>Figure 2. PCA projection of TCGA-BRCA samples based on transcriptomic features.</em>
 </p>
 
 ## Conclusion & Future Work
