@@ -1,10 +1,10 @@
 ---
 title: "TCGA-BRCA 乳腺癌多组学数据分析与机器学习建模"
 collection: portfolio
-permalink: _portfolio/tcga-brca-analysis.md
+permalink: /portfolio/tcga-brca-analysis/
 date: 2025-01-18
 excerpt: "基于 TCGA-BRCA 公共数据库，系统分析乳腺癌患者的临床特征与转录组表达数据，并构建基于 PCA + 逻辑回归的分类模型，探索肿瘤亚型判别的可行性与局限性。"
-image: "/images/tcga-brca/thumbnail.png"
+image: 
 github_url: "https://github.com/username/tcga-brca-analysis"
 ---
 
@@ -165,3 +165,4 @@ This work contributes to the growing field of precision oncology by demonstratin
 
 
 **Keywords**: Breast cancer, TCGA, Machine learning, PCA, Logistic regression, Transcriptomics, Bioinformatics, Precision medicine, Classification, Imbalanced learning
+
